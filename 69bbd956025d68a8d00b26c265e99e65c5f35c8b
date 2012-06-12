@@ -1,0 +1,8 @@
+Change-Id: I69bbd956025d68a8d00b26c265e99e65c5f35c8b
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Mon, 11 Jun 2012 21:46:48 -0500
+Reviewed-on: http://gerrit.sudoservers.com/1318
+Project: AOKP/external_llvm
+Branch: refs/heads/ics
