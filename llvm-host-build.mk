@@ -10,6 +10,8 @@ LOCAL_CFLAGS :=	\
 	-Wwrite-strings	\
 	$(LOCAL_CFLAGS)
 
+LOCAL_CFLAGS := $(subst -Werror,,$(LOCAL_CFLAGS))
+
 ifeq ($(LLVM_ENABLE_ASSERTION),true)
 LOCAL_CFLAGS :=	\
 	-D_DEBUG	\
